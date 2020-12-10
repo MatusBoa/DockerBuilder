@@ -1,5 +1,7 @@
 # PHP Docker Command Builder
 
+![tests](https://github.com/MatusBoa/DockerBuilder/workflows/tests/badge.svg?branch=main)
+
 ### Installation
 
 `composer require matusboa/docker-builder`
