@@ -1,5 +1,13 @@
 # PHP Docker Command Builder
 
+### Installation
+
+`composer require matusboa/docker-builder`
+
+### Requirements
+
+- PHP 7.4
+
 ### Usage
 
 ```php
