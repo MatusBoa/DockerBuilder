@@ -12,6 +12,9 @@ jobs:
         fail-fast: true
     
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
       - name: Install dependencies
         run: composer install
       
