@@ -1,0 +1,27 @@
+{
+    "name": "matusboa/docker-builder",
+    "description": "PHP Docker Command Builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kotas",
+            "email": "matus.koterba@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MatusBoa\\DockerBuilder\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MatusBoa\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
