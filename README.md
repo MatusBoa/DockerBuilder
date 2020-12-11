@@ -1,6 +1,8 @@
 # PHP Docker Command Builder
 
 ![tests](https://github.com/MatusBoa/DockerBuilder/workflows/tests/badge.svg?branch=main)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/matusboa/docker-builder)
+![Packagist Version](https://img.shields.io/packagist/v/matusboa/docker-builder)
 
 ### Installation
 
