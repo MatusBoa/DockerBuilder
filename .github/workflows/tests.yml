@@ -11,7 +11,7 @@ jobs:
     strategy:
         fail-fast: true
         matrix:
-          php/versions: ['php7.4']
+          php-versions: ['php7.4']
     
     steps:
       - name: Checkout code
